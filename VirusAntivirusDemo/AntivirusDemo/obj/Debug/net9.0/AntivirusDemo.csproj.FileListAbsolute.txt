@@ -1,0 +1,14 @@
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\bin\Debug\net9.0\AntivirusDemo.exe
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\bin\Debug\net9.0\AntivirusDemo.deps.json
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\bin\Debug\net9.0\AntivirusDemo.runtimeconfig.json
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\bin\Debug\net9.0\AntivirusDemo.dll
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\bin\Debug\net9.0\AntivirusDemo.pdb
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.AssemblyInfoInputs.cache
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.AssemblyInfo.cs
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.csproj.CoreCompileInputs.cache
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.dll
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\refint\AntivirusDemo.dll
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.pdb
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\AntivirusDemo.genruntimeconfig.cache
+C:\Users\esref\.gemini\antigravity\scratch\VirusAntivirusDemo\AntivirusDemo\obj\Debug\net9.0\ref\AntivirusDemo.dll
