@@ -1,0 +1,14 @@
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\bin\Debug\net9.0-windows\DilCevirici.exe
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\bin\Debug\net9.0-windows\DilCevirici.deps.json
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\bin\Debug\net9.0-windows\DilCevirici.runtimeconfig.json
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\bin\Debug\net9.0-windows\DilCevirici.dll
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\bin\Debug\net9.0-windows\DilCevirici.pdb
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.AssemblyInfoInputs.cache
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.AssemblyInfo.cs
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.csproj.CoreCompileInputs.cache
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.dll
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\refint\DilCevirici.dll
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.pdb
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\DilCevirici.genruntimeconfig.cache
+C:\Users\esref\.gemini\antigravity\scratch\DilCevirici\obj\Debug\net9.0-windows\ref\DilCevirici.dll
